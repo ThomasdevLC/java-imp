@@ -8,7 +8,7 @@ public class InteractifPlusMoins {
 
 		 Random random = new Random();
 	        int randomNb = random.nextInt(100) + 1; 
-	        System.out.println("Nombre aléatoire entre 1 et 100 : " + randomNb);
+	       // System.out.println("Nombre aléatoire entre 1 et 100 : " + randomNb);
 	        Scanner scanner = new Scanner(System.in);
 	       
 	        int guessNb;
